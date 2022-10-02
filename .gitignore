@@ -132,13 +132,5 @@ dmypy.json
 .vscode/
 *.jpg
 *.zip
-artifacts/prepare_base_model/base_model.h5
 
-artifacts/prepare_callbacks/checkpoint_dir/model.h5
-
-
-artifacts/training/model.h5
-artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-02-12-44-12/train/events.out.tfevents.1664694861.LAPTOP-J7A0RTCL.15516.0.v2
-artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-02-12-44-12/validation/events.out.tfevents.1664698309.LAPTOP-J7A0RTCL.15516.1.v2
-artifacts/prepare_base_model/base_model_updated.h5
 
